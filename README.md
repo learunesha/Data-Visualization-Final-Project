@@ -28,5 +28,10 @@ This project explores the emotional landscape of popular music from 2000 to 2019
 **Key Insights:** 
 - The increasing energy of top-charting songs across decades suggests a cultural shift toward more intense auditory experiences.
 - A notable high-valence cluster around 2011–2013 aligns with the dominance of upbeat "feel-good" pop.
-- Users uncovered surprising combinations (e.g., low-valence, high-danceability tracks) not immediately visible in static formats.
-- Visualization design decisions, from spiral structure to galaxy simulation, were not just technical, but philosophical explorations of how mood lives in music.
+- Users uncovered surprising combinations (e.g. low-valence, high-danceability tracks) not immediately visible in static formats.
+- Visualization design decisions, from spiral structure to galaxy simulation, were not just technical but philosophical explorations of how mood lives in music.
+
+
+**Dataset:**
+- Top Hits Spotify 2000–2019: https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019
+- This dataset contains audio statistics of the top 2000 tracks on Spotify from 2000-2019. The data contains about 18 columns each describing the track and it's qualities.
